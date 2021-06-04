@@ -4,11 +4,11 @@
 Experienced in developing and integrating machine learning-based systems.   
 interested in building scalable web apps and mission-critical systems using open source tools, agile methodologies.
 
-In my free time, I spend a lot on reading, blogging, and exploring new technologies.
+:metal: In my free time, I spend a lot on reading, blogging, and exploring new technologies.
 
 - 🌱 I'm currently focusing on be a certified AWS ML specilialist.
 - 👯 I co-organizing meetups to talk about ML & DS topics and apply them in practical sessions. 
-- 👯 I'm looking to collaborate with other developers and content creators.
+- :two_men_holding_hands: I'm looking to collaborate with other developers and content creators.
 - 🔭 I'm currently working on my side project to hack my way in new areas!
 
 
