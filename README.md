@@ -16,7 +16,7 @@ interested in building scalable web apps and mission-critical systems using open
 [![Linkedin Badge](https://img.shields.io/badge/-mahmoudai-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mahmoudai/)](https://www.linkedin.com/in/mahmoudai/)
 [![Medium Badge](https://img.shields.io/badge/-@mahmoudai-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@mahmoudai)](https://medium.com/@mahmoudai)
 [![Twitter Badge](https://img.shields.io/badge/-@_mahmoudai-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_mahmoudai)](https://twitter.com/_mahmoudai)
-[![Outlook Badge](https://img.shields.io/badge/-mahmoudai-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mahmoud.ahmed.ibrahim@outlook.com)](mailto:mahmoud.ahmed.ibrahim@outlook.com)
+[![Outlook Badge](https://img.shields.io/badge/-mahmoudai-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mahmod.ahmed.ibrahem@gmail.com)](mailto:mahmod.ahmed.ibrahem@gmail.com)
 <!-- [![Website Badge](https://img.shields.io/badge/-jessicalim.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://jessicalim.me)](https://jessicalim.me) -->
 
 <br />
