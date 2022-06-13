@@ -53,6 +53,7 @@ These are my latest posts on [Medium](mahmoudai.medium.com) and [Dev.to](https:/
 ### Medium
 
 <!-- MEDIUM:START -->
+- [How I passed AWS machine learning specialty exam](https://mahmoudai.medium.com/how-i-passed-aws-machine-learning-specialty-exam-983daa06c436)   
 - [How analyzing Airbnb data make me excited to visit Málaga?](https://mahmoudai.medium.com/how-analyzing-airbnb-data-make-me-excited-to-visit-m%C3%A1laga-89d18d55323b)   
 - [How did I predict customer churn before it knocked on my door](https://medium.com/analytics-vidhya/how-did-i-predict-customer-churn-before-it-knocked-on-my-door-958ade92232b)
 <!-- MEDIUM:END -->
