@@ -1,6 +1,6 @@
 ### Hi there, I'm Mahmoud Ahmed Ibrahim - AKA [Mahmoud]() <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-## I'm a Software Engineer - Data
+## I'm a Data Engineer
 Certified AWS Machine Learning Specialist experienced in developing and integrating data-driven applications.   
 interested in building scalable web apps and mission-critical systems using open source tools, agile methodologies.
 Recently I was an AWS community builder, and so excited to share knowledge with you.
