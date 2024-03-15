@@ -48,11 +48,13 @@ Recently I was an AWS community builder, and so excited to share knowledge with 
 
 ## 📝 Latest Blog Posts
 
-These are my latest posts on [Medium](mahmoudai.medium.com) and [Dev.to](https://dev.to/mahmoudai):
+These are my latest posts on [Medium](mahmoudai.medium.com), [Dev.to](https://dev.to/mahmoudai) and [Substack](https://substack.com/profile/18446432-mahmoud-ahmed):
 
 ### Medium
 
 <!-- MEDIUM:START -->
+- [The backbone of data engineering 5 key architectural patterns explained](https://mahmoudai.medium.com/the-backbone-of-data-engineering-5-key-architectural-patterns-explained-2327de58d99a)
+- [Don’t Settle for Unsorted: How Python Sorted Containers Can Revolutionize Your Code](https://mahmoudai.medium.com/how-python-sorted-containers-can-revolutionize-your-code-906e2156ce67)
 - [How I passed AWS machine learning specialty exam](https://mahmoudai.medium.com/how-i-passed-aws-machine-learning-specialty-exam-983daa06c436)   
 - [How analyzing Airbnb data make me excited to visit Málaga?](https://mahmoudai.medium.com/how-analyzing-airbnb-data-make-me-excited-to-visit-m%C3%A1laga-89d18d55323b)   
 - [How did I predict customer churn before it knocked on my door](https://medium.com/analytics-vidhya/how-did-i-predict-customer-churn-before-it-knocked-on-my-door-958ade92232b)
