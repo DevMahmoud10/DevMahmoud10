@@ -1,16 +1,15 @@
-### Hi there, I'm Mahmoud Ahmed Ibrahim - AKA [Mahmoud]() <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi there, I'm Mahmoud   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ## I'm a Data Engineer
-Certified AWS Machine Learning Specialist experienced in developing and integrating data-driven applications.   
-interested in building scalable web apps and mission-critical systems using open source tools, agile methodologies.
-Recently I was an AWS community builder, and so excited to share knowledge with you.
+Certified AWS Machine Learning Specialist with wide experience in developing and integrating data-driven applications.
+Passionate about constructing scalable web applications and mission-critical systems utilizing open-source tools and agile methodologies.
+Also, I'm an AWS community builder who is excited a lot about sharing knowledge and expertise with you.
+In my free time, I spend a lot of time reading, blogging, and exploring new technologies. :metal:
 
-:metal: In my free time, I spend a lot on reading, blogging, and exploring new technologies.
-
-- 🌱 I'm currently focusing on dig deeper in Data Engineering feild.
-- 👯 I co-organizing meetups to talk about ML & DS topics and apply them in practical sessions. 
-- :two_men_holding_hands: I'm looking to collaborate with other developers and content creators.
-- 🔭 I'm currently working on my side project to hack my way in new areas!
+- 🌱 Presently, I'm delving deeper into the realm of Data Engineering, concentrating my efforts on gaining comprehensive insights.
+- 👯 I actively co-organize meetups centered around ML & DS discussions, fostering hands-on applications in real-world scenarios.
+- :two_men_holding_hands: I'm keen on forming partnerships with fellow developers and content creators to explore new avenues of collaboration.
+- 🔭 Currently, I'm engrossed in my side project, seeking innovative ways to venture into uncharted territories!
 
 
 ### Connect with me:
@@ -18,7 +17,8 @@ Recently I was an AWS community builder, and so excited to share knowledge with 
 [![Medium Badge](https://img.shields.io/badge/-@mahmoudai-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@mahmoudai)](https://medium.com/@mahmoudai)
 [![Twitter Badge](https://img.shields.io/badge/-@_mahmoudai-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_mahmoudai)](https://twitter.com/_mahmoudai)
 [![Outlook Badge](https://img.shields.io/badge/-mahmoudai-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mahmod.ahmad.ibrahem@gmail.com)](mailto:mahmod.ahmad.ibrahem@gmail.com)
-<!-- [![Website Badge](https://img.shields.io/badge/-jessicalim.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://jessicalim.me)](https://jessicalim.me) -->
+[![Substack Badge](https://img.shields.io/badge/mahmoudai-FF7518?style=flat&logo=Substack&logoColor=white&link=https://www.mahmoudahmed.dev)](https://www.mahmoudahmed.dev)
+[![Website Badge](https://img.shields.io/badge/-mahmoudahmed.dev-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.mahmoudahmed.dev)](https://www.mahmoudahmed.dev)
 
 <br />
 
@@ -26,6 +26,7 @@ Recently I was an AWS community builder, and so excited to share knowledge with 
 <p align="left">
 <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" alt="python" width="50" height="50" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="50" height="50" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="50" height="50" />
@@ -33,6 +34,14 @@ Recently I was an AWS community builder, and so excited to share knowledge with 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="50" height="50" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="heroku" width="50" height="50" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/travis/travis-plain.svg" alt="git" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cassandra/cassandra-original.svg" alt="sklearn" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/d3js/d3js-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" alt="travis" width="50" height="50" />
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws" width="50" height="50" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50" />
@@ -45,6 +54,11 @@ Recently I was an AWS community builder, and so excited to share knowledge with 
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="sklearn" width="50" height="50" />
 <img src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" alt="sklearn" width="50" height="50" />
 
+          
+          
+          
+          
+          
 
 ## 📝 Latest Blog Posts
 
